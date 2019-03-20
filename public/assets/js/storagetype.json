@@ -1,0 +1,10 @@
+{
+     
+        "content":
+            [
+                { "storage_type":"google","image":"/assets/images/google_drive.png" },
+                { "storage_type":"dropbox","image":"/assets/images/dropbox.png" },
+                { "storage_type":"onedrive","image":"/assets/images/onedrive.png" },
+                { "storage_type":"box","image":"/assets/images/box.png"}
+         ]
+    }

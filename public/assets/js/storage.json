@@ -1,0 +1,18 @@
+{
+     
+        "content":
+            [
+                { "display_name": "google 1", "type": "google","id": "google1","imgsrc":"assets/images/google_drive.png" },
+                { "display_name": "google 2", "type": "google","id": "google2" ,"imgsrc":"assets/images/google_drive.png"},
+                { "display_name": "google 3", "type": "google","id": "google3","imgsrc":"assets/images/google_drive.png" },
+                { "display_name": "dropbox 1", "type": "dropbox","id": "dropbox1","imgsrc":"assets/images/dropbox.png" },
+                { "display_name": "dropbox 2", "type": "dropbox","id": "dropbox2","imgsrc":"assets/images/dropbox.png" },
+                { "display_name": "dropbox 3", "type": "dropbox","id": "dropbox2","imgsrc":"assets/images/dropbox.png" },
+                { "display_name": "onedrive 1", "type": "onedrive","id": "onedrive1","imgsrc":"assets/images/onedrive.png" },
+                { "display_name": "onedrive 2", "type": "onedrive","id": "onedrive2","imgsrc":"assets/images/onedrive.png" },
+                { "display_name": "onedrive 3", "type": "onedrive","id": "onedrive3","imgsrc":"assets/images/onedrive.png" },
+                { "display_name": "box 1", "type": "box","id": "box1","imgsrc":"assets/images/box.png" },
+                { "display_name": "box 2", "type": "box","id": "box2","imgsrc":"assets/images/box.png" },
+                { "display_name": "box 3", "type": "box","id": "box3","imgsrc":"assets/images/box.png" }
+         ]
+    }
